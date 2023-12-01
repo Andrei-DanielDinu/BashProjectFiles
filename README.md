@@ -8,3 +8,4 @@ This repository contains all my Bash projects.
 3. ***28 Nov 2023***: *Schedule backup*
 4. ***29 Nov 2023***: *Replace spaces with underscores*
 5. ***30 Nov 2023***: *Find duplicate files*
+6. ***01 Dec 2023***: *Countdown notifying*
