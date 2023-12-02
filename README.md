@@ -9,3 +9,4 @@ This repository contains all my Bash projects.
 4. ***29 Nov 2023***: *Replace spaces with underscores*
 5. ***30 Nov 2023***: *Find duplicate files*
 6. ***01 Dec 2023***: *Countdown notifying*
+7. ***02 Dec 2023***: *Password Generator*
